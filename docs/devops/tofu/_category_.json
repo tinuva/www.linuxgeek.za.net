@@ -1,0 +1,8 @@
+{
+  "label": "OpenTofu",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "OpenTofu or also known as Teraform related documentation."
+  }
+}
